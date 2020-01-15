@@ -22,6 +22,7 @@
 ||tvbs.com.tw^
 ||www.ettoday.net^
 ||ebc.net.tw^
+||mirrormedia.mg^
 ||crntt.tw^
 ||knowing.asia^
 ||www.ctia.com.tw^
