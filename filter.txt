@@ -4,7 +4,7 @@
 # Homepage: https://github.com/theralse/adgfilters
 # License: https://mit-license.org/
 #
-# Last modified: 02 Oct 2019
+# Last modified: 27 Mar 2020
 #
 
 ||chinatimes.com^
@@ -15,7 +15,7 @@
 ||infotimes.com.tw^
 ||www.luckydog.tw^
 ||lecoin.cc^
-||new.ctv.com.tw^
+||ctv.com.tw^
 ||udn.com^
 ||cdns.com.tw^
 ||taiwan-reports.com^
@@ -30,3 +30,5 @@
 ||motherlandchina.com^
 ||bookzone.cwgv.com.tw^
 ||gvm.com.tw^
+||www.ctwant.com^
+||www.styletc.com^
